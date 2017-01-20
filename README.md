@@ -4,7 +4,7 @@ Welcome to Access Code!
 
 [Attendance Sign In](https://docs.google.com/a/c4q.nyc/forms/d/e/1FAIpQLSemS4KF78sTN-ptXdNuCLVtElfCL4Lq-l93JHCJ1fAXNUHI7Q/viewform)
 
-[Access Code Calendar](https://calendar.google.com/calendar/embed?src=accesscode%40c4q.nyc&ctz=America/New_York)-Check here to see the most up to date schedule.
+[Access Code Calendar](https://calendar.google.com/calendar/embed?src=coalitionforqueens.org_l78ohbs8bmfj4uta4pd2bb964o%40group.calendar.google.com)-Check here to see the most up to date schedule.
 
 ## Table of Contents
 1. [Unit 1](#unit-1)
