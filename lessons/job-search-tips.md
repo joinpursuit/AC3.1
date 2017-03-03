@@ -1,3 +1,4 @@
+# Job Search Tips
 ## Studying Tips
 - practice code wars/hacker rank/interview cake daily (at least 30 mins a day)
 - study the fundamentals
