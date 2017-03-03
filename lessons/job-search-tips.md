@@ -1,11 +1,11 @@
 ## Studying Tips
-- code wars/hacker rank
+- practice code wars/hacker rank/interview cake daily (at least 30 mins a day)
 - study the fundamentals
   - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
   - [JavaScript: The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
   - [Eloquent JavaScript](http://eloquentjavascript.net/)
-- keep working on projects
-- study DS/A basics 
+- study DS/A basics. aim for a high level understanding of all of the basic topics (checkout Cracking the Coding Interview for a good overview of the important topcis). you should aim to understand these things on a high level, but should not spend your time learning how to write algorithms from scratch (for example, it's unlikely you'll ever get asked to write any sorting or searching algorithms from scratch, but you should at least have a general idea of what they are and how they work)
+- keep working on projects (you capstone, side projects, etc.). the goal for these projects should be to improve your skills, fill in gaps in your knowledge, and help keep you sharp as a developer. add READMEs that include images, GIFs, or videos of your projects - hiring managers (even technical ones) are more likely to look at what your project looks like than look at all of the code. realistically, hiring managers usually only have time to look at 1 or 2 of your projects, and will look at things like overall presentation, code organization, code cleanliness, use of best practices, and technologies used. 
 
 ## Job Application Tips
 - apply for high quality jobs at a steady pace (but start with warmups) 
