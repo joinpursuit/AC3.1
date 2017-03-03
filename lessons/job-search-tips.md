@@ -1,0 +1,9 @@
+- 30 to 60 mins a day of code wars/hacker rank
+- study the fundamentals 
+- keep working on projects
+- study DS/A basics 
+- apply for high quality jobs at a steady pace (but start with warmups) 
+- meet people! the best way to get jobs is to get through to real people. go to meetups and social events (pro tip: giving a talk at a tech meetup is one of he most efficient ways to meet a lot of people and get a lot of job interest) 
+- make friends with people before giving them your pitch. most people like meeting new people. most people don't like being sold to
+- reach out to people through Linkedin and other ways online.
+- Discussion: What questions do you have about job search?
