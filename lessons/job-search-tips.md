@@ -18,10 +18,16 @@
 - reach out to people through Linkedin and other ways online
 
 ## Interview Tips 
+- interviewing is kind of like dating 
+- interviewing is kind of like joining a band
 - go into interviews EXPECTING that you won't know a lot of the answers. 
     - if you go into an interview thinking "I'll get the job if I answer their questions correctly, but won't get the job if I get them wrong" you are putting yourself in a position for failure.  you will win interviews and get jobs by showing that you have a logical process for approaching problems that you don't necessary know, and by being a good communicator and team player
 - focus on understanding, not on memorizing
 - be confident in what you know 
+- you are interveiwing them just as much as they are interviewing you
+  - remember that interviewing is hard, and most people aren't very good at it
+ - be yourself and let your personality come through! 
+  - don't try to change your personality based on what you think the interviewer or company would want from you. it's always better to just be yourself up front. if you don't feel like you'd enjoy it there, it's better to find out now than later
 
 ## Discussion
 - What questions do you have about job search?
