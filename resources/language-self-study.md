@@ -1,3 +1,5 @@
+# Language Self Study
+
 Learning new languages, skills, and technologies is a really important part of being a developer. Being a programmer means you will need to be a lifelong learner, and constantly be learning new things. 
 
 Your goal will be to explore, research, and experiment.
