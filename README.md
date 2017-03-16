@@ -302,5 +302,5 @@ Hackathon
 | 2017-01-09|||Demo practice||
 | 2017-01-10|||||
 | 2017-01-11|||CSS||
-| 2017-01-12|||[Deployment](lessons/deployment/README.md)||
+| 2017-01-12|||[Deployment](lessons/deployment/heroku/README.md)||
 | 2017-01-13|||Presentations||
