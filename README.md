@@ -199,22 +199,22 @@ Hackathon
 | 2016-10-25 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdQKAR_RH3umrjcOVfQMQlfi8Dc2nhD8jejhfQXvv9qXmRZZg/viewform)||[Stacks and Queues](lessons/computer-science/stacks_queues/stack_queues.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdGtoOEA55V5IeC-jvxQXlv3ueOT7LdrZjPI3pXwSJivzzQgw/viewform)|
 | 2016-10-26 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSci9lVPsFFlZgFxei3FYRynbLw1BvywLuSvXhfBQl7EToMdBA/viewform)||[Recursion](agendas/10-26-2016-agenda.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLScAG1s3Lh8vIU1i_xo50BXZOsmmT66c3MsVmil0U5L9We_UUg/viewform)|
 | 2016-10-27 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeZkwE2B_6nw_y_mXBVYIVLGfbQwhE-om-EI87Jcn8nLP7PwQ/viewform)||[Functional Programming](agendas/10-27-2016-agenda.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdheVcaCQULyzyfBlYNXgHaYgEXJJxYeUg26cC1j7TZigKtfQ/viewform)|
-| 2016-10-28 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeC2Y4oqTRYfSI4_5twqypPXgZ9nWnPvZEsE3jXebKMS6g3EQ/viewform)|||||
+| 2016-10-28 |||||||
 
 ### Week 16
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
-| 2016-10-31 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfNg4reQUvHJx6a7fJ0cU0-Ly6JWADfJ-oBLfQEZezxekHemg/viewform)||[Introduction to Databases and SQL](lessons/databases/intro_databases.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdMS9VI1qmEm25D5yi3e1pZdylK4ECYmvn9igJBRW2tLFMKMw/viewform)|
-| 2016-11-01 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeqeLK8QF_FLImW3AAvIrg0Iob4bCSag-2FYfZI76wGJ45Vpg/viewform)||[MongoDB: Models and Schema]()|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSefeY5OmdhGJXfw3pCg0EEb31IbYymoAQuCJeHfLbOdwBfX3A/viewform)|
-| 2016-11-02 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdd3BIuhHZlq_KtHX-JwCYKGdWMuL90ta_lroOM9KuWjC6Elw/viewform)||[Express Router and Routing](lessons/databases/backend_routing.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdJo4Xh45eZpEj2pG3S23UwAKmVgIJ8_HEYXpKdXECkTmnzkQ/viewform)|
-| 2016-11-03 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSc9SEbleVX9_5D-0iyuTAZHFnxFSMWDPLeXIasXxMeCGL1Y6A/viewform)||[Project](projects/blog-app-project/README.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeoMTtUCvwyBYMpZM69yzL_1yQXLzTEXdotoQmDFizfK76xDA/viewform)|
-| 2016-11-04 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdqLE5LssxIdQdZVzyr2FRgPRmZZnl7_i0DsCIoc_SM16ZvvA/viewform)||[Project](lessons/databases/expressJS.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLScnaoRj-IZmA0phm3gCvBb9vrYMFkPvZt818sUwL_7lr5V8Dw/viewform)|
+| 2016-10-31 ||||[Introduction to Databases and SQL](lessons/databases/intro_databases.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdMS9VI1qmEm25D5yi3e1pZdylK4ECYmvn9igJBRW2tLFMKMw/viewform)|
+| 2016-11-01 ||||[MongoDB: Models and Schema]()||
+| 2016-11-02 ||||[Express Router and Routing](lessons/databases/backend_routing.md)||
+| 2016-11-03 ||||[Project](projects/blog-app-project/README.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeoMTtUCvwyBYMpZM69yzL_1yQXLzTEXdotoQmDFizfK76xDA/viewform)|
+| 2016-11-04 ||||[Project](lessons/databases/expressJS.md)||
 
 ### Week 17
 
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
-| 2016-11-07||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeKf7nJz3WjUOYU7OQVjZnfAyxlQmq9VWIPFvRb3dNv7UhZgg/viewform)|||[Midday](https://docs.google.com/forms/d/e/1FAIpQLSe-D-6v_poYOwsUQRCYfDfCMqfrz8-H7Dy_T2jbB4QNV_1zrg/viewform)|
+| 2016-11-07||||||
 | 2016-11-08||[Link](https://docs.google.com/forms/d/e/1FAIpQLSc6fLZdnxwlPigXNxFNPe1yobdJ7bGfy7EBTW8jkP_9osIIFw/viewform)|||[Midday](https://docs.google.com/forms/d/e/1FAIpQLSfAGDu3EhkUG8p4mMktMQWEbJWLykjMoNLSCWHRYz_YbiGyAQ/viewform)|
 | 2016-11-09||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdP8WEYn5eKc2HusPAxA2_ViGRUoffz4sf5Iq1nxP8dUrT-sA/viewform)|||[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdf2zdVv4u4fE-MMMbg57921fRn2jRCzduTQI31yl6QPezkRQ/viewform)|
 | 2016-11-10||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf0iSoO9kG9RLyiEDdJFaeecP8kyERnNLNIyZ0yhazFY7l83w/viewform)||||
@@ -228,7 +228,7 @@ Hackathon
 | 2016-11-14||||||
 | 2016-11-15||||Midterm||
 | 2016-11-16||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeC2mMMVDEUrpvrMCKabIVEJvENxTAFEW8RINS3OoxcbHhapg/viewform)||[Intro to Whiteboarding](lessons/computer-science/whiteboarding.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSf4zfZmdAOSG3XXa7QDKyvfEulyCK9dKEYkYnuwM0jxhUKIZQ/viewform)|
-| 2016-11-17||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe-A9XaOQrGXe0C8ueE-pI3GCiFVSwif1IW_6K5g5NEcEBrMQ/viewform)||[RESTful API](lessons/server/RESTfulAPIs.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSc-86_no07uS2wWhaNFenHs3QbpPmNKdpiZg8U8Qw7dY0KmTQ/viewform)|
+| 2016-11-17||||[RESTful API](lessons/server/RESTfulAPIs.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSc-86_no07uS2wWhaNFenHs3QbpPmNKdpiZg8U8Qw7dY0KmTQ/viewform)|
 | 2016-11-18||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdGLM42Bv57T2rWEg2bYfIzKP9AoU_AFI9kGdFDVVnMiebsFQ/viewform)||[Advanced SQL](lessons/databases/advancedSQL/advancedSQL.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdpaSiFZYAX7diqfoU5I2n8NtxpStVNCTnrn5nckuIEt2cvqQ/viewform)|
 
 
