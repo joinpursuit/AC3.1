@@ -27,3 +27,4 @@
 - how can you select elements in the DOM?
 - what is event bubbling/event propogation and why is it important?
 - what is an event listener?
+- what is JavaScript garbage collection?
